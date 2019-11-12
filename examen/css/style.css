@@ -1,0 +1,9 @@
+body{
+
+}
+
+.cuadrado-3 {
+    width: 10rem; 
+    height: 10rem; 
+    border: 1.3rem solid black;
+    background: yellow;
